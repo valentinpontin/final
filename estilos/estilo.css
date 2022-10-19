@@ -1,0 +1,63 @@
+.moverDer {
+  justify-content: right; }
+
+.moverCentro {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center; }
+
+.moverIzq {
+  justify-content: left;
+  text-align: left; }
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 8px;
+  margin-top: auto; }
+
+.tamanio {
+  margin: 44%;
+  justify-content: center; }
+
+.fotoInsta, .fotoFace {
+  width: 100px; }
+
+.titulo {
+  text-align: center;
+  padding: 20px;
+  font-family: 'Indie Flower', cursive; }
+
+.contenido {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  margin: 20px; }
+
+.seleccion {
+  width: 100%; }
+
+.flex {
+  flex-direction: column;
+  min-height: 100vh; }
+
+.colorB {
+  color: white; }
+
+.miColor {
+  color: black; }
+
+.tituloCentrar {
+  text-align: center;
+  margin: 25px; }
+
+.contenidoCentrar {
+  text-align: center;
+  margin: 25px; }
+
+.border {
+  border-radius: 10px;
+  color: white;
+  background-color: #464242; }
